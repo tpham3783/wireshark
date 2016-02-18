@@ -1328,6 +1328,7 @@ set(DISSECTOR_SRC
 	dissectors/packet-teklink.c
 	dissectors/packet-telkonet.c
 	dissectors/packet-telnet.c
+	dissectors/packet-chat.c
 	dissectors/packet-teredo.c
 	dissectors/packet-text-media.c
 	dissectors/packet-tfp.c
